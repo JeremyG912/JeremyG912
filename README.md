@@ -14,8 +14,4 @@ Let’s Connect! Open to roles in data analytics, business intelligence, and fin
 </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/18M3dIGPw_lWXgWI7b8lNWY5wknZiQaPd/edit?usp=sharing&ouid=116815238971191361939&rtpof=true&sd=true ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=JeremyG912 alt=JeremyG912 /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=JeremyG912&show_icons=true&include_all_commits=true)](https://github.com/JeremyG912/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyG912&layout=compact)](https://github.com/JeremyG912/github-readme-stats)
-()
 -->
