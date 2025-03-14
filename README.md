@@ -1,4 +1,4 @@
-## Hey 👋, This is Jeremy Garcia
+## Hi, I am Jeremy Garcia
 [![Gmail Badge](https://img.shields.io/badge/-Jeremyg5656@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Jeremyg5656@gmail.com)](mailto:Jeremyg5656@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/jeremy-garcia-ny-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/jeremy-garcia-ny/)](https://www.linkedin.com/in/www.linkedin.com/in/jeremy-garcia-ny/) [![Github Badge](https://img.shields.io/badge/-JeremyG912-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JeremyG912/)](https://www.github.com/JeremyG912/) <p align='left'>With a background in business management, finance, and operations, I specialize in transforming complex data into meaningful insights that drive efficiency and decision-making. Recently, I earned my Business Intelligence Analyst Certification from TripleTen, where I developed proficiency in SQL, Python, Tableau, Power BI, and Excel to analyze datasets and create data-driven strategies.
 
