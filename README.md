@@ -11,5 +11,3 @@ Data Storytelling & Insight Generation
 Passionate About: Using data to optimize business processes, improve customer experience, and inform strategic decisions. I thrive in collaborative environments where I can leverage my analytical skills to drive results.
 
 Let’s Connect! Open to roles in data analytics, business intelligence, and financial analysis. Feel free to reach out via LinkedIn or email at Jeremyg5656@gmail.com.
-</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/18M3dIGPw_lWXgWI7b8lNWY5wknZiQaPd/edit?usp=sharing&ouid=116815238971191361939&rtpof=true&sd=true ' target=_blank><u>here</u>.</a></p>
-
